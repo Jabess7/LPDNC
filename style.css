@@ -131,6 +131,7 @@ button{
     font-weight: bold;
     margin-top: 15px;
     cursor: pointer;
+    border: none;
 
 }
 button:hover{
